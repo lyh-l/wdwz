@@ -1,7 +1,5 @@
 # 游戏问题
 
-## 游戏问题
-
 | 指引 | 地址 |
 | --- | --- |
 | 微信小游戏开发流程 | [https://developers.weixin.qq.com/minigame/dev/](https://developers.weixin.qq.com/minigame/dev/) |
