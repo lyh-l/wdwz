@@ -1,7 +1,5 @@
 # 对接问题
 
-![](http://heywoods-down.oss-cn-shenzhen.aliyuncs.com/wdwz/xhw.jpg)
-
 ## 对接问题
 
 ### 产品需要服务器支撑，如何开通服务器支撑？

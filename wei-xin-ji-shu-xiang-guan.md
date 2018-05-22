@@ -1,7 +1,5 @@
 # 微信技术相关
 
-![](http://heywoods-down.oss-cn-shenzhen.aliyuncs.com/wdwz/xhw.jpg)
-
 ## 微信技术相关
 
 ### 玩家进入游戏的怎么知道是从哪个公众号进去？

@@ -1,7 +1,5 @@
 # 游戏问题
 
-![](http://heywoods-down.oss-cn-shenzhen.aliyuncs.com/wdwz/xhw.jpg)
-
 ## 游戏问题
 
 | 指引 | 地址 |
