@@ -1,6 +1,6 @@
 # 一、对接问题
 
-!\[\]\(http://heywoods-down.oss-cn-shenzhen.aliyuncs.com/wdwz/xhw.jpg\)
+http://heywoods-down.oss-cn-shenzhen.aliyuncs.com/wdwz/xhw.jpg
 
 \#\#\#一、对接问题
 
@@ -52,7 +52,7 @@
 
 &gt;\(1\) 图片资源使用HTTP
 
-
+### 
 
 &gt;\(2\) Json文件使用HTTPS
 
