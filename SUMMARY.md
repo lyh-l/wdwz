@@ -1,6 +1,7 @@
-# 目录
+# Table of contents
 
-* [对接问题](doc/duijie/README.md)
-* [微信技术相关](doc/jishu/README.md)
-* [游戏问题](doc/game/README.md)
+* [Introduction](README.md)
+* [对接问题](dui-jie-wen-ti.md)
+* [微信技术相关](wei-xin-ji-shu-xiang-guan.md)
+* [游戏问题](you-xi-wen-ti.md)
 
